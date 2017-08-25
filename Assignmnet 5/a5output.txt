@@ -1,0 +1,25 @@
+**** You will be prompted to enter scores ranging from 0 to 100. ***
+**** The scores entered will be averaged and then assigned a letter grade. ***
+**** The results will be displayed and you can repeat as many times as needed. ***
+Begin
+Please enter a score 0-100.
+Enter a number LESS than 0 to STOP entering scores:
+100
+Please enter a score 0-100.
+Enter a number LESS than 0 to STOP entering scores:
+80
+Please enter a score 0-100.
+Enter a number LESS than 0 to STOP entering scores:
+70
+Please enter a score 0-100.
+Enter a number LESS than 0 to STOP entering scores:
+70
+Please enter a score 0-100.
+Enter a number LESS than 0 to STOP entering scores:
+40
+Please enter a score 0-100.
+Enter a number LESS than 0 to STOP entering scores:
+-1
+The average of the 5 scores entered is 72.00
+The assigned letter grade is C
+Would you like to enter another set of scores?

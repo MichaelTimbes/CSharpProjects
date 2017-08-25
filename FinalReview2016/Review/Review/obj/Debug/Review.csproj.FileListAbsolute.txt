@@ -1,0 +1,9 @@
+E:\C#\FinalReview2016\Review\Review\bin\Debug\Review.exe.config
+E:\C#\FinalReview2016\Review\Review\bin\Debug\Review.exe
+E:\C#\FinalReview2016\Review\Review\bin\Debug\Review.pdb
+E:\C#\FinalReview2016\Review\Review\obj\Debug\Review.csprojResolveAssemblyReference.cache
+E:\C#\FinalReview2016\Review\Review\obj\Debug\Review.MainForm.resources
+E:\C#\FinalReview2016\Review\Review\obj\Debug\Review.Properties.Resources.resources
+E:\C#\FinalReview2016\Review\Review\obj\Debug\Review.csproj.GenerateResource.Cache
+E:\C#\FinalReview2016\Review\Review\obj\Debug\Review.exe
+E:\C#\FinalReview2016\Review\Review\obj\Debug\Review.pdb

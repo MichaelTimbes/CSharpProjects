@@ -1,0 +1,16 @@
+Enter Employee Name: Michael Timbes
+Enter Weekly Sales: 1000
+
+     Weekly Payroll App
+Employee Name: Michael Timbes
+Comission Rate:      0.070
+
+This Week's Slaes:                $1,000.00
+Gross Pay:                           $70.00
+Federal Taxes Witheld:< 18.00 % >    $12.60
+Social Security Witheld:< 9.00 % >    $6.30
+Retirement Contribution:< 15.00 % >  $10.50
+
+Total Deductions:                    $29.40
+
+Total Pay:                           $40.60

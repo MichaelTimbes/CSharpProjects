@@ -1,0 +1,6 @@
+E:\C#\Assignment 4\Assignment04\Assignment04\bin\Debug\Assignment04.exe.config
+E:\C#\Assignment 4\Assignment04\Assignment04\bin\Debug\Assignment04.exe
+E:\C#\Assignment 4\Assignment04\Assignment04\bin\Debug\Assignment04.pdb
+E:\C#\Assignment 4\Assignment04\Assignment04\obj\Debug\Assignment04.csprojResolveAssemblyReference.cache
+E:\C#\Assignment 4\Assignment04\Assignment04\obj\Debug\Assignment04.exe
+E:\C#\Assignment 4\Assignment04\Assignment04\obj\Debug\Assignment04.pdb

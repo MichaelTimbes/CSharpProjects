@@ -1,0 +1,21 @@
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_04\CalculatePayByEmployType\CalculatePayByEmployType\bin\Debug\CalculatePayByEmployType.exe.config
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_04\CalculatePayByEmployType\CalculatePayByEmployType\obj\Debug\CalculatePayByEmployType.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_04\CalculatePayByEmployType\CalculatePayByEmployType\bin\Debug\CalculatePayByEmployType.exe
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_04\CalculatePayByEmployType\CalculatePayByEmployType\bin\Debug\CalculatePayByEmployType.pdb
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_04\CalculatePayByEmployType\CalculatePayByEmployType\obj\Debug\CalculatePayByEmployType.exe
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_04\CalculatePayByEmployType\CalculatePayByEmployType\obj\Debug\CalculatePayByEmployType.pdb
+C:\CSharp_4thEdition\RTP\Ch05\Ch05_Solutions\Ch05_04\CalculatePayByEmployType\CalculatePayByEmployType\bin\Debug\CalculatePayByEmployType.exe.config
+C:\CSharp_4thEdition\RTP\Ch05\Ch05_Solutions\Ch05_04\CalculatePayByEmployType\CalculatePayByEmployType\obj\Debug\CalculatePayByEmployType.exe
+C:\CSharp_4thEdition\RTP\Ch05\Ch05_Solutions\Ch05_04\CalculatePayByEmployType\CalculatePayByEmployType\obj\Debug\CalculatePayByEmployType.pdb
+C:\CSharp_4thEdition\RTP\Ch05\Ch05_Solutions\Ch05_04\CalculatePayByEmployType\CalculatePayByEmployType\bin\Debug\CalculatePayByEmployType.exe
+C:\CSharp_4thEdition\RTP\Ch05\Ch05_Solutions\Ch05_04\CalculatePayByEmployType\CalculatePayByEmployType\bin\Debug\CalculatePayByEmployType.pdb
+C:\CSharp_4thEdition\RTP\Ch05\Ch05_Solutions\Ch05_04\CalculatePayByEmployType\CalculatePayByEmployType\obj\Debug\CalculatePayByEmployType.csprojResolveAssemblyReference.cache
+E:\Teaching\2080VS2012\Homework\A4\CalculatePayByEmployType\CalculatePayByEmployType\bin\Debug\CalculatePayByEmployType.exe.config
+E:\Teaching\2080VS2012\Homework\A4\CalculatePayByEmployType\CalculatePayByEmployType\obj\Debug\CalculatePayByEmployType.exe
+E:\Teaching\2080VS2012\Homework\A4\CalculatePayByEmployType\CalculatePayByEmployType\obj\Debug\CalculatePayByEmployType.pdb
+E:\Teaching\2080VS2012\Homework\A4\CalculatePayByEmployType\CalculatePayByEmployType\bin\Debug\CalculatePayByEmployType.exe
+E:\Teaching\2080VS2012\Homework\A4\CalculatePayByEmployType\CalculatePayByEmployType\bin\Debug\CalculatePayByEmployType.pdb
+E:\Teaching\2080VS2012\Homework\A4\CalculatePayByEmployType\CalculatePayByEmployType\obj\Debug\CalculatePayByEmployType.csprojResolveAssemblyReference.cache
+E:\C#\Assignment 4\CalculatePayByEmployType\CalculatePayByEmployType\CalculatePayByEmployType\bin\Debug\CalculatePayByEmployType.exe.config
+E:\C#\Assignment 4\CalculatePayByEmployType\CalculatePayByEmployType\CalculatePayByEmployType\obj\Debug\CalculatePayByEmployType.exe
+E:\C#\Assignment 4\CalculatePayByEmployType\CalculatePayByEmployType\CalculatePayByEmployType\obj\Debug\CalculatePayByEmployType.pdb

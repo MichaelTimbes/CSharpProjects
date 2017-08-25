@@ -1,0 +1,6 @@
+E:\C#\Assignment 3\Assignment03\Assignment03\bin\Debug\Assignment03.exe.config
+E:\C#\Assignment 3\Assignment03\Assignment03\obj\Debug\Assignment03.csprojResolveAssemblyReference.cache
+E:\C#\Assignment 3\Assignment03\Assignment03\bin\Debug\Assignment03.exe
+E:\C#\Assignment 3\Assignment03\Assignment03\bin\Debug\Assignment03.pdb
+E:\C#\Assignment 3\Assignment03\Assignment03\obj\Debug\Assignment03.exe
+E:\C#\Assignment 3\Assignment03\Assignment03\obj\Debug\Assignment03.pdb

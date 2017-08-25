@@ -1,0 +1,5 @@
+﻿Cases Sold:             29
+Gross Sales:     $4,350.00
+Product Costs:   $2,900.00
+SGA Fee:           $145.00
+Press any key to continue . . .

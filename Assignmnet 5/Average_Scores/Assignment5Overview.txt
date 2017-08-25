@@ -1,0 +1,28 @@
+Main Goal: Using C#, write a program to calculate the average of all scores entered between 0 and 100.
+Specifications:
+
+	1)Use asentinel-controlled loop variable to terminate the loop. The program will then ask if the user wants to enter another set of scores, 
+	and repeat the same process if the user entersa letter y (or Y), or quit if the user enters any other character. 
+		A)Loop type will be a while loop with sentinel "chr" of type char. 
+		B)The exit condition will be (while chr!= 'Y'| !(input < 0)). A to upper will be used to make sure
+		the character input is a capitalized. Possibly a nested while loop to allow for continuation
+	2)After values are entered and the average calculated, test the average to determine whether an A, B, C, D, or F should be recorded. Grading 
+	scale A: 90-100; B: 80 - 89; C: 70 - 79; D: 60-69; F: < 60.
+		A)Seperate function 'double calc_avg(double [] array)' to have access to the data within array.
+			a) The function will return local variable 'average' of type double.
+		B)Seperate function 'char grade(double average)' returns the grade character that reflects the average.
+			b) following if statement structure will be used   
+			if (average<=100 | average >= 90){return A;} 
+				else if (average<=89 | average >= 80){return B;} 
+				else if (average<=79 | average >= 70){return C;}
+				else if (average<=69 | average >= 60){return D;}
+			else{return F;}
+	3)Output in this format:
+	"The average of the {0} ",scores.size();," scores entered is {0}" average; 
+	"The assigned letter grade is {0}", grade;
+**************************************************************************************************************************************************
+Variables need:
+char input;
+double score;
+char grade;
+int arr_size;

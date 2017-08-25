@@ -1,0 +1,9 @@
+E:\C#\Assignment 6\Assignment06\Assignment06\bin\Debug\Assignment06.exe.config
+E:\C#\Assignment 6\Assignment06\Assignment06\bin\Debug\Assignment06.exe
+E:\C#\Assignment 6\Assignment06\Assignment06\bin\Debug\Assignment06.pdb
+E:\C#\Assignment 6\Assignment06\Assignment06\obj\Debug\Assignment06.csprojResolveAssemblyReference.cache
+E:\C#\Assignment 6\Assignment06\Assignment06\obj\Debug\Assignment06.Properties.Resources.resources
+E:\C#\Assignment 6\Assignment06\Assignment06\obj\Debug\Assignment06.csproj.GenerateResource.Cache
+E:\C#\Assignment 6\Assignment06\Assignment06\obj\Debug\Assignment06.exe
+E:\C#\Assignment 6\Assignment06\Assignment06\obj\Debug\Assignment06.pdb
+E:\C#\Assignment 6\Assignment06\Assignment06\obj\Debug\Assignment06.InAddMul.resources

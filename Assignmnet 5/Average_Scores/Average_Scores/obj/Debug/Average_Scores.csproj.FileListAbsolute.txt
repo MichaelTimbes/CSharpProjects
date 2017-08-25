@@ -1,0 +1,6 @@
+E:\C#\Assignmnet 5\Average_Scores\Average_Scores\bin\Debug\Average_Scores.exe.config
+E:\C#\Assignmnet 5\Average_Scores\Average_Scores\bin\Debug\Average_Scores.exe
+E:\C#\Assignmnet 5\Average_Scores\Average_Scores\bin\Debug\Average_Scores.pdb
+E:\C#\Assignmnet 5\Average_Scores\Average_Scores\obj\Debug\Average_Scores.csprojResolveAssemblyReference.cache
+E:\C#\Assignmnet 5\Average_Scores\Average_Scores\obj\Debug\Average_Scores.exe
+E:\C#\Assignmnet 5\Average_Scores\Average_Scores\obj\Debug\Average_Scores.pdb

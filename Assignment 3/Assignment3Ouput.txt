@@ -1,0 +1,10 @@
+Park Name: Clear Waters
+Park Location: Parkview,Oregon
+Park Type: National
+Park Facilities: Camping, Hiking, Boating
+Entrance Fee: $15.00
+Number of Employees: 500.00
+Number of Visitors Last Year: 1,000,000.00
+Annual Buget for the Park: $750,000.00
+Revenue from Entrance Fee: $14,999,976.75
+Costs Per Visitor: $23.25

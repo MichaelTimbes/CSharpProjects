@@ -1,0 +1,9 @@
+E:\C#\Assignment 8\Assignment08\Assignment08\bin\Debug\Assignment08.exe.config
+E:\C#\Assignment 8\Assignment08\Assignment08\obj\Debug\Assignment08.csprojResolveAssemblyReference.cache
+E:\C#\Assignment 8\Assignment08\Assignment08\obj\Debug\Assignment08.App.resources
+E:\C#\Assignment 8\Assignment08\Assignment08\obj\Debug\Assignment08.Properties.Resources.resources
+E:\C#\Assignment 8\Assignment08\Assignment08\obj\Debug\Assignment08.csproj.GenerateResource.Cache
+E:\C#\Assignment 8\Assignment08\Assignment08\bin\Debug\Assignment08.exe
+E:\C#\Assignment 8\Assignment08\Assignment08\bin\Debug\Assignment08.pdb
+E:\C#\Assignment 8\Assignment08\Assignment08\obj\Debug\Assignment08.exe
+E:\C#\Assignment 8\Assignment08\Assignment08\obj\Debug\Assignment08.pdb

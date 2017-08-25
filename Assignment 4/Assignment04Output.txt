@@ -1,0 +1,22 @@
+You will be asked the employee's first and last name. Then if they are hourly or salary.
+
+Calculations will be performed to calculate his/her pay.
+Please choose 'H' for hourly or 'S' for salary
+S
+Employee First name:
+Michael
+Employee Last name:
+Timbes
+Enter Employee ID:
+A00123
+Please input the salary:
+300
+Weekly Information for:Michael  Timbes
+Employee ID: A00123
+Gross Pay:    $300.00
+Federal Tax Paid:     $54.00
+Social Security Paid:     $18.00
+Retirement Contribution:     $30.00
+Total Deductions:    $102.00
+
+Total Take Home Pay:    $198.00

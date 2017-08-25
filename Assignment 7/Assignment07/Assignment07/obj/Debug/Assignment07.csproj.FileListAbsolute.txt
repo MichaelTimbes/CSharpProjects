@@ -1,0 +1,9 @@
+E:\C#\Assignment 7\Assignment07\Assignment07\bin\Debug\Assignment07.exe.config
+E:\C#\Assignment 7\Assignment07\Assignment07\bin\Debug\Assignment07.exe
+E:\C#\Assignment 7\Assignment07\Assignment07\bin\Debug\Assignment07.pdb
+E:\C#\Assignment 7\Assignment07\Assignment07\obj\Debug\Assignment07.csprojResolveAssemblyReference.cache
+E:\C#\Assignment 7\Assignment07\Assignment07\obj\Debug\Assignment07.TuitionCalc.resources
+E:\C#\Assignment 7\Assignment07\Assignment07\obj\Debug\Assignment07.Properties.Resources.resources
+E:\C#\Assignment 7\Assignment07\Assignment07\obj\Debug\Assignment07.csproj.GenerateResource.Cache
+E:\C#\Assignment 7\Assignment07\Assignment07\obj\Debug\Assignment07.exe
+E:\C#\Assignment 7\Assignment07\Assignment07\obj\Debug\Assignment07.pdb

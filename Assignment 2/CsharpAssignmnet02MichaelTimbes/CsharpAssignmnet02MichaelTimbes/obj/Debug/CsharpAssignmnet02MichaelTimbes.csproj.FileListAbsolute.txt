@@ -1,0 +1,6 @@
+E:\C#\CsharpAssignmnet02MichaelTimbes\CsharpAssignmnet02MichaelTimbes\bin\Debug\CsharpAssignmnet02MichaelTimbes.exe.config
+E:\C#\CsharpAssignmnet02MichaelTimbes\CsharpAssignmnet02MichaelTimbes\bin\Debug\CsharpAssignmnet02MichaelTimbes.exe
+E:\C#\CsharpAssignmnet02MichaelTimbes\CsharpAssignmnet02MichaelTimbes\bin\Debug\CsharpAssignmnet02MichaelTimbes.pdb
+E:\C#\CsharpAssignmnet02MichaelTimbes\CsharpAssignmnet02MichaelTimbes\obj\Debug\CsharpAssignmnet02MichaelTimbes.csprojResolveAssemblyReference.cache
+E:\C#\CsharpAssignmnet02MichaelTimbes\CsharpAssignmnet02MichaelTimbes\obj\Debug\CsharpAssignmnet02MichaelTimbes.exe
+E:\C#\CsharpAssignmnet02MichaelTimbes\CsharpAssignmnet02MichaelTimbes\obj\Debug\CsharpAssignmnet02MichaelTimbes.pdb
